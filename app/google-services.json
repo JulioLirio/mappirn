@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918232809411",
+    "firebase_url": "https://key-buttress-203803.firebaseio.com",
+    "project_id": "key-buttress-203803",
+    "storage_bucket": "key-buttress-203803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918232809411:android:ebc0ae0224e21c4d",
+        "android_client_info": {
+          "package_name": "com.jhlc.solutions.mappir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918232809411-2ca1ugpf5vsq5qiie86k1v8ehij2ko71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhlc.solutions.mappir",
+            "certificate_hash": "d92b7f99e8db98b4748a5378d3ef25f2459a7dee"
+          }
+        },
+        {
+          "client_id": "918232809411-mcgnl1c9s2oarrqi55k78cr4nlkdnhn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPotCbxw1HY08yHIu3A7w9zHF9nBkKkLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918232809411-mcgnl1c9s2oarrqi55k78cr4nlkdnhn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
